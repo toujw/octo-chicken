@@ -4,7 +4,11 @@ A Clojure library of miscellaneous utilities.
 
 ## Usage
 
-FIXME
+### io
+
+<pre>
+input-stream->lazy-seq - Converts a java.io.InputStream to a clojure.lang.LazySeq.
+</pre>
 
 ## License
 

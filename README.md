@@ -2,7 +2,7 @@
 
 A Clojure library of miscellaneous utilities.
 
-## Usage
+## Namespaces
 
 ### data.list-zipper
 Functions to move around and modify a list efficiently.

@@ -4,6 +4,9 @@ A Clojure library of miscellaneous utilities.
 
 ## Usage
 
+### data.list-zipper
+Functions to move around and modify a list efficiently.
+
 ### io
 
 <pre>
